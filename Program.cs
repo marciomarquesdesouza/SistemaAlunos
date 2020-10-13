@@ -102,7 +102,11 @@ namespace Revisao
       Console.WriteLine("1 - Inserir novo aluno");
       Console.WriteLine("2 - Listar alunos");
       Console.WriteLine("3 - Calcular média geral");
+<<<<<<< HEAD
       Console.WriteLine("X - Sair!");
+=======
+      Console.WriteLine("X - Sair!!!");
+>>>>>>> 95ef1f9da86b0e45486227213ea2cc05b17d88ac
       Console.WriteLine();
 
       String opcaoUsuario = Console.ReadLine();
